@@ -1,0 +1,33 @@
+body{
+	background-color: indianred;
+}
+
+div{
+	background-color: ghostwhite;
+	width: 70%;
+	margin: auto;
+	font-family: cursive;
+	text-align: center;
+ }
+
+ul{
+  display: inline-flex;
+  background-color:whitesmoke;
+  width: 90%;
+  text-align: center;
+
+}
+
+nav{
+	background:indianred ;
+	display: inline-flex;
+}
+
+li{
+	list-style-type: none;
+	margin: 20px;
+}
+
+h1{
+	background-color: floralwhite;
+}

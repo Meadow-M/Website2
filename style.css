@@ -1,0 +1,81 @@
+@font-face{
+	font-family:"Daniel";
+	src: url('Megrim-Regular.ttf');
+}
+body{
+	background-color: floralwhite;
+
+}
+
+div{
+	background-color: lightgoldenrodyellow;
+	width: 60%;
+	margin: auto;
+	font-family: cursive;
+	text-align: center;
+
+}
+
+h1{
+	text-align: center;
+	background-color: lightyellow;
+	font-family:"Daniel";
+
+}
+
+h2{
+	background-color: lightyellow;
+}
+
+img{
+	width: 70%;
+	height:70%;
+	background-color: floralwhite;
+}
+
+section{
+	display: inline-block;
+}
+
+.Shoes{
+	width: 49%;
+	float:left;
+}
+	
+ul{
+  display: inline-flex;
+  background-color: lightyellow;
+  width: 90%;
+  text-align: center;
+
+}
+
+nav{
+	background: floralwhite;
+	display: inline-flex;
+	
+}
+
+li{
+	list-style-type: none;
+	margin: 20px;
+	background-color: ghostwhite;
+
+}
+	
+form{
+	background-color: lightyellow;
+	padding-top: 10px;
+}
+
+la
+}
+
+footer{
+	background-color: white;
+}
+
+button{
+	border-color: lightgoldenrodyellow;
+	background-color: lightyellow;
+}
